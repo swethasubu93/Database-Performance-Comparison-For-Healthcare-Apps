@@ -131,7 +131,7 @@ one=coll.delete_one(<column_delete>)
 
 ## Sample Results
 Read operation results using Jmeter:
-![Read - Jmeter1](https://user-images.githubusercontent.com/98043861/169837089-57f850b7-1211-40e5-8ca1-397737cadd95.png)
+![Read - Jmeter (2)](https://user-images.githubusercontent.com/98043861/169919717-0d7a7e73-56c3-4265-a9df-a10d71df1965.png)
 
 Read operation results using python timestamp:
 ![Read - Python](https://user-images.githubusercontent.com/98043861/169837702-215017b7-9644-4048-9894-19909c407c85.png)
