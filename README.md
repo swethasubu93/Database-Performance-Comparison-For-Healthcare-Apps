@@ -141,11 +141,11 @@ Read operation results using python timestamp:
 ## Credits
 #### Team Members:
 
-Swetha Subramanian
+Swetha Subramanian https://github.com/swethasubu93
 
 Revathi Boopathi
 
-Madhura Pandit
+Madhura Pandit https://github.com/madhurapandit
 ## Appendix
 
 Github Project Link: 
